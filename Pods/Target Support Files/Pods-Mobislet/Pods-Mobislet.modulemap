@@ -1,0 +1,6 @@
+framework module Pods_Mobislet {
+  umbrella header "Pods-Mobislet-umbrella.h"
+
+  export *
+  module * { export * }
+}
